@@ -1,0 +1,10 @@
+ID,Type,Username,Password,BorrowedBooks,Fine
+1,1,alice,student1,1;2,50
+2,1,bob,student2,3,0
+3,1,charlie,student3,-,0
+4,1,danny,student4,8,0
+5,1,ethan,student5,-,0
+6,2,falguni,faculty1,-,0
+7,2,gagan,faculty2,-,0
+8,2,himesh,faculty3,10,0
+9,3,admin,admin,-,0

@@ -1,0 +1,11 @@
+ID,Title,Author,Publisher,Year,ISBN,Status,IssuedTo,IssueDate,ReservedBy
+1,Harry Potter and The Philosopher's Stone,J.K. Rowling,Bloomsbury,1997,978-0747532699,0,alice,03/01/2025,-
+2,Harry Potter and The Chamber of Secrets,J.K. Rowling,Bloomsbury,1998,978-0747538493,0,alice,08/02/2025,-
+3,Harry Potter and The Prisoner of Azkaban,J.K. Rowling,Bloomsbury,1999,978-0747542155,0,bob,25/02/2025,-
+4,Harry Potter and The Goblet of Fire,J.K. Rowling,Bloomsbury,2000,978-0747546245,1,-,-,-
+5,Harry Potter and The Order of The Phoenix,J.K. Rowling,Bloomsbury,2003,978-0747551003,1,-,-,-
+6,Harry Potter and The Half-Blood Prince,J.K. Rowling,Bloomsbury,2005,978-0747581086,1,-,-,-
+7,Harry Potter and The Deathly Hallows,J.K. Rowling,Bloomsbury,2007,978-0747591054,1,-,-,-
+8,Concepts of Physics (Vol. 1 & 2),H.C. Verma,Bharati Bhawan,1992,978-8177091878,0,danny,10/02/2025,-
+9,Atomic Habits,James Clear,Avery,2018,978-0735211292,1,-,-,-
+10,The Room on the Roof,Ruskin Bond,Penguin India,1956,978-0143333387,0,himesh,18/02/2025,-
