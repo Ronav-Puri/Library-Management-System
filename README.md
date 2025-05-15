@@ -1,4 +1,4 @@
-# Library-Management-System
+# Library Management System
 A mini project, part of the course CS253: Software Development and Operations, during my fourth semester at IITK.
 
 This is a simple Library Management System implemented in C++. It enables users to manage books and user accounts, facilitating actions such as borrowing, returning, and reserving books.  
